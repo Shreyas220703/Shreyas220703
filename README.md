@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shreyas220703
-- 👀 I’m interested in app developement, web developement and UI/UX
+- 👀 I’m interested in app developement, IoT and UI/UX
 - 🌱 I’m currently learning JAVA...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreyas.pradhan5@gmail.com
